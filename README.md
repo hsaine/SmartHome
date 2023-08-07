@@ -28,7 +28,7 @@ to implement a smart home.
 <h1 align="center">Tasks</h1>
 The requested tasks are as follows:
 <ul>
-	<ol>Measure the house temperature and display it on a screen (LCD), and if T > 40°C, trigger the fan (Servo motor)./ol>
+	<ol>Measure the house temperature and display it on a screen (LCD), and if T > 40°C, trigger the fan (Servo motor).</ol>
 	<ol>Turn on the red LED and activate an alert (buzzer) if the gas or flame sensor detects fire or gas; otherwise, turn on the green LED.</ol>
 	<ol>Measure the soil water level using the humidity sensor and display it on the screen (LCD). Turn on a red LED if the level is below a set threshold.</ol>
 	<ol>Turn on the house lights (two LEDs) if the PIR motion sensor detects the presence of a person.</ol>
